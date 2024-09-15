@@ -1,0 +1,6 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.41.34120\\bin\\Hostx64\\x86\\cl.exe",
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
